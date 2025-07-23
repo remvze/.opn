@@ -38,6 +38,20 @@
           "title": "PSWD",
           "description": "Simply and secure password generator.",
           "url": "https://pswd.mvze.net"
+        },
+        {
+          "title": "Timesy",
+          "url": "https://timesy.mvze.net"
+        },
+        },
+        {
+          "title": "Calmness",
+          "url": "https://calmness.mvze.net"
+        },
+        {
+          "title": "Dockvert",
+          "description": "Docker-powered CLI tool for dependency-free file conversion.",
+          "url": "https://github.com/remvze/dockvert"
         }
       ]
     },
@@ -46,13 +60,13 @@
       "items": [
         {
           "title": "OPN",
-          "description": "Founder of OPN.",
+          "description": "Founder / Developer.",
           "url": "https://opn.co",
           "date": "2025-Present"
         },
         {
           "title": "Philosophors",
-          "description": "Founder of Philosophors.",
+          "description": "Founder / Curator.",
           "url": "https://philosophors.com",
           "date": "2021-Present"
         }
