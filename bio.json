@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "name": "Maze Heart",
+  "description": "Programming + Philosophy",
+  "bio": "I'm an independent open-source developer and digital curator of words and art @ Philosophors.",
+  "socials": [
+    {
+      "title": "Website",
+      "url": "https://remvze.com"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/remvze"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Projects",
+      "items": [
+        {
+          "title": "Moodist",
+          "description": "Ambient sounds for focus and calm.",
+          "url": "https://moodist.mvze.net"
+        }
+      ]
+    },
+    {
+      "title": "Experience",
+      "items": [
+        {
+          "title": "Philosophors",
+          "description": "Founder of Philosophors",
+          "url": "https://philosophors.com",
+          "date": "2021-"
+        }
+      ]
+    }
+  ]
+}
