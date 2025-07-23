@@ -2,7 +2,6 @@
   "version": 1,
   "name": "Maze Heart",
   "description": "Programming + Philosophy",
-  "bio": "I'm an independent open-source developer and digital curator of words and art @ Philosophors.",
   "socials": [
     {
       "title": "Website",
@@ -15,12 +14,30 @@
   ],
   "sections": [
     {
+      "title": "About",
+      "content": "I'm an independent open-source developer and digital curator of words and art @ Philosophors."
+    },
+    {
+      "title": "Now",
+      "content": "Building Philosophors + OPN."
+    },
+    {
       "title": "Projects",
       "items": [
         {
           "title": "Moodist",
           "description": "Ambient sounds for focus and calm.",
           "url": "https://moodist.mvze.net"
+        },
+        {
+          "title": "Nothing",
+          "description": "Simply do nothing.",
+          "url": "https://nothing.mvze.net"
+        },
+        {
+          "title": "PSWD",
+          "description": "Simply and secure password generator.",
+          "url": "https://pswd.mvze.net"
         }
       ]
     },
@@ -28,10 +45,16 @@
       "title": "Experience",
       "items": [
         {
+          "title": "OPN",
+          "description": "Founder of OPN.",
+          "url": "https://opn.co",
+          "date": "2025-Present"
+        },
+        {
           "title": "Philosophors",
-          "description": "Founder of Philosophors",
+          "description": "Founder of Philosophors.",
           "url": "https://philosophors.com",
-          "date": "2021-"
+          "date": "2021-Present"
         }
       ]
     }
