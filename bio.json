@@ -1,7 +1,7 @@
 {
   "version": 1,
   "name": "Maze Heart",
-  "description": "Programming + Philosophy",
+  "description": "Programming + Philosophy.",
   "socials": [
     {
       "title": "Website",
@@ -31,18 +31,18 @@
   "sections": [
     {
       "title": "About",
-      "content": "I'm an independent open-source developer and digital curator of words and art @ Philosophors."
+      "content": "I'm an independent digital curator of words and art, also a hobbyist programmer and open-source contributor."
     },
     {
       "title": "Now",
-      "content": "Building Philosophors + OPN."
+      "content": "Building ✱ Philosophors + ⬤ OPN."
     },
     {
       "title": "Projects",
       "items": [
         {
           "title": "Moodist",
-          "description": "Ambient sounds for focus and calm.",
+          "description": "🌲 Ambient sounds for focus and calm.",
           "url": "https://moodist.mvze.net"
         },
         {
@@ -52,21 +52,38 @@
         },
         {
           "title": "PSWD",
-          "description": "Simply and secure password generator.",
+          "description": "🔑 Simply and secure password generator.",
           "url": "https://pswd.mvze.net"
         },
         {
           "title": "Timesy",
+          "description": "⏳️ A distraction-free online timer.",
           "url": "https://timesy.mvze.net"
         },
         {
           "title": "Calmness",
+          "description": "🫁 Online breathing exercises tool."
           "url": "https://calmness.mvze.net"
+        }
+      ]
+    },
+    {
+      "title": "CLI Tools",
+      "items": [
+        {
+          "title": "NLC",
+          "description": "💾 A terminal assistant for natural language commands.",
+          "url": "https://github.com/remvze/nlc"
         },
         {
           "title": "Dockvert",
-          "description": "Docker-powered CLI tool for dependency-free file conversion.",
+          "description": "📦 Docker-powered CLI tool for dependency-free file conversion.",
           "url": "https://github.com/remvze/dockvert"
+        },
+        {
+          "title": "Lowfi",
+          "description": "🎵 Play Lofi music through your terminal.",
+          "url": "https://github.com/remvze/lowfi"
         }
       ]
     },
@@ -74,16 +91,16 @@
       "title": "Experience",
       "items": [
         {
-          "title": "OPN",
-          "description": "Founder / Developer.",
+          "title": "OPN ⬤",
+          "description": "Founder // Your open-source bio page.",
           "url": "https://opn.co",
-          "date": "2025-Present"
+          "date": "2025–Present"
         },
         {
-          "title": "Philosophors",
-          "description": "Founder / Curator.",
+          "title": "Philosophors ✱",
+          "description": "Founder // For those who seek wisdom.",
           "url": "https://philosophors.com",
-          "date": "2021-Present"
+          "date": "2021–Present"
         }
       ]
     }
