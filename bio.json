@@ -2,43 +2,50 @@
   "version": 1,
   "name": "Maze Heart",
   "description": "Programming + Philosophy.",
-  "socials": [
-    {
-      "title": "Website",
-      "url": "https://remvze.com"
-    },
-    {
-      "title": "GitHub",
-      "url": "https://github.com/remvze"
-    },
-    {
-      "title": "X (Twitter)",
-      "url": "https://x.com/remvze"
-    },
-    {
-      "title": "Bluesky",
-      "url": "https://remvze.bsky.social"
-    },
-    {
-      "title": "Threads",
-      "url": "https://threads.net/@remvze"
-    },
-    {
-      "title": "Telegram",
-      "url": "https://t.me/remvze"
-    }
-  ],
   "sections": [
     {
+      "title": "Socials",
+      "type": "links",
+      "links": [
+        {
+          "title": "Website",
+          "url": "https://remvze.com"
+        },
+        {
+          "title": "GitHub",
+          "url": "https://github.com/remvze"
+        },
+        {
+          "title": "X (Twitter)",
+          "url": "https://x.com/remvze"
+        },
+        {
+          "title": "Bluesky",
+          "url": "https://remvze.bsky.social"
+        },
+        {
+          "title": "Threads",
+          "url": "https://threads.net/@remvze"
+        },
+        {
+          "title": "Telegram",
+          "url": "https://t.me/remvze"
+        }
+      ]
+    },
+    {
       "title": "About",
+      "type": "text",
       "content": "I'm an independent digital curator of words and art, also a hobbyist programmer and open-source contributor."
     },
     {
       "title": "Now",
+      "type": "text",
       "content": "Building ✱ Philosophors + ⬤ OPN."
     },
     {
       "title": "Projects",
+      "type": "list",
       "items": [
         {
           "title": "Moodist",
@@ -69,6 +76,7 @@
     },
     {
       "title": "CLI Tools",
+      "type": "list",
       "items": [
         {
           "title": "NLC",
@@ -89,6 +97,7 @@
     },
     {
       "title": "Experience",
+      "type": "list",
       "items": [
         {
           "title": "OPN ⬤",
