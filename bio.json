@@ -4,6 +4,30 @@
   "description": "Programming + Philosophy.",
   "sections": [
     {
+      "title": "Experience",
+      "type": "list",
+      "items": [
+        {
+          "title": "OPN ⬤",
+          "description": "Founder // Your open-source bio page.",
+          "url": "https://opn.bio",
+          "date": "2025–Present"
+        },
+        {
+          "title": "MazeNet ⏾",
+          "description": "Founder // Independent open-source studio.",
+          "url": "https://mznt.io",
+          "date": "2023–Present"
+        },
+        {
+          "title": "Philosophors ✱",
+          "description": "Founder // For those who seek wisdom.",
+          "url": "https://philosophors.com",
+          "date": "2021–Present"
+        }
+      ]
+    },
+    {
       "title": "Socials",
       "type": "links",
       "links": [
@@ -30,86 +54,6 @@
         {
           "title": "Telegram",
           "url": "https://t.me/remvze"
-        }
-      ]
-    },
-    {
-      "title": "About",
-      "type": "text",
-      "content": "I'm an independent digital curator of words and art, also a hobbyist programmer and open-source contributor."
-    },
-    {
-      "title": "Now",
-      "type": "text",
-      "content": "Building ✱ Philosophors + ⬤ OPN."
-    },
-    {
-      "title": "Projects",
-      "type": "list",
-      "items": [
-        {
-          "title": "Moodist",
-          "description": "🌲 Ambient sounds for focus and calm.",
-          "url": "https://moodist.mvze.net"
-        },
-        {
-          "title": "Nothing",
-          "description": "Simply do nothing.",
-          "url": "https://nothing.mvze.net"
-        },
-        {
-          "title": "PSWD",
-          "description": "🔑 Simply and secure password generator.",
-          "url": "https://pswd.mvze.net"
-        },
-        {
-          "title": "Timesy",
-          "description": "⏳️ A distraction-free online timer.",
-          "url": "https://timesy.mvze.net"
-        },
-        {
-          "title": "Calmness",
-          "description": "🫁 Online breathing exercises tool.",
-          "url": "https://calmness.mvze.net"
-        }
-      ]
-    },
-    {
-      "title": "CLI Tools",
-      "type": "list",
-      "items": [
-        {
-          "title": "NLC",
-          "description": "💾 A terminal assistant for natural language commands.",
-          "url": "https://github.com/remvze/nlc"
-        },
-        {
-          "title": "Dockvert",
-          "description": "📦 Docker-powered CLI tool for dependency-free file conversion.",
-          "url": "https://github.com/remvze/dockvert"
-        },
-        {
-          "title": "Lowfi",
-          "description": "🎵 Play Lofi music through your terminal.",
-          "url": "https://github.com/remvze/lowfi"
-        }
-      ]
-    },
-    {
-      "title": "Experience",
-      "type": "list",
-      "items": [
-        {
-          "title": "OPN ⬤",
-          "description": "Founder // Your open-source bio page.",
-          "url": "https://opn.co",
-          "date": "2025–Present"
-        },
-        {
-          "title": "Philosophors ✱",
-          "description": "Founder // For those who seek wisdom.",
-          "url": "https://philosophors.com",
-          "date": "2021–Present"
         }
       ]
     }
