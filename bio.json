@@ -2,6 +2,9 @@
   "version": 1,
   "name": "Maze Heart",
   "description": "Programming + Philosophy.",
+  "style": {
+    "theme": "light"
+  },
   "sections": [
     {
       "title": "Experience",
