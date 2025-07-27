@@ -3,7 +3,8 @@
   "name": "Maze Heart",
   "description": "Programming + Philosophy.",
   "style": {
-    "theme": "light"
+    "theme": "light",
+    "font": "serif"
   },
   "sections": [
     {
